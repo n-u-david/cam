@@ -28,4 +28,4 @@ replay_pid*
 .mvn
 
 #exclude target
-/target
+target/

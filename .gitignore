@@ -26,6 +26,5 @@ replay_pid*
 #exclude .idea
 .idea/
 
-
 #exclude target
 target/

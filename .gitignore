@@ -24,8 +24,8 @@ hs_err_pid*
 replay_pid*
 
 #exclude .idea
-.idea
-.mvn
+.idea/
+
 
 #exclude target
 target/
